@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mais-v2.CSharp", "Mais-v2.CSharp.csproj", "{59C2ED21-47D2-E7EB-B69C-326181F1A6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C2ED21-47D2-E7EB-B69C-326181F1A6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C2ED21-47D2-E7EB-B69C-326181F1A6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C2ED21-47D2-E7EB-B69C-326181F1A6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C2ED21-47D2-E7EB-B69C-326181F1A6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

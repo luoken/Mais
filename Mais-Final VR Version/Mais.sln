@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A173CBDA-4E9D-4CEE-AEB7-49141325A94F}") = "Mais", "Assembly-CSharp.csproj", "{CCE08576-9815-A3C0-C384-D00436153785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE08576-9815-A3C0-C384-D00436153785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE08576-9815-A3C0-C384-D00436153785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE08576-9815-A3C0-C384-D00436153785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE08576-9815-A3C0-C384-D00436153785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
