@@ -9,4 +9,4 @@
 | Daniel Caceres  | [:octocat:](https://github.com/caceresdaniel) |
 | Ken Luo         | [:octocat:](https://github.com/luoken)        |
 | Danny Padilla   | [:octocat:](https://github.com/dannypadilla)  |
-| Henry           | |
+
